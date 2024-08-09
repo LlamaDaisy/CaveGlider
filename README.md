@@ -7,9 +7,9 @@ You can play a web version of this game online here: https://llamadaisy.itch.io/
 A basic Unity 2D side scroller. Play as a cute little bat, navigating through a maze of stalactites and stalagmites. With simple controls and easy-to-pick-up gameplay.
 
 Main Features:
-Aim for the highest score in this endless runner, and beat your personal best
-Hand drawn pixel art, with a cohesive style
-Smooth and easy to understand controls.
+- Aim for the highest score in this endless runner, and beat your personal best
+- Hand drawn pixel art, with a cohesive style
+- Smooth and easy to understand controls.
 
 # Context
 
